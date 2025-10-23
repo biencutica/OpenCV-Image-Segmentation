@@ -3,7 +3,7 @@
 This repository contains Python scripts demonstrating computer vision techniques, including a real-time "air drawing" application and an accuracy metric calculator.
 
 
-# 1. MediaPipe Virtual Drawing
+### 1. MediaPipe Virtual Drawing
 
 This is a Python application that opens your webcam and uses MediaPipe to track your hand. It identifies your index finger, allowing you to "draw" on the screen in real-time, just by moving your finger in the air.
 
@@ -23,7 +23,7 @@ What is IoU? IoU is a standard metric used to measure the accuracy of an object 
 
 Usage: This script provides a clear function to compute the IoU score, useful for evaluating any custom object detection or segmentation task.
 
-# Technologies Used
+## Technologies Used
 
 Python
 
