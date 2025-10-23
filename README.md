@@ -25,8 +25,8 @@ This repository also includes a utility script for calculating the Intersection 
 
 ## Technologies Used
 
-Python
+-- Python
 
-OpenCV (for image/video capture, processing, and drawing)
+-- OpenCV (for image/video capture, processing, and drawing)
 
-MediaPipe (for real-time hand tracking)
+-- MediaPipe (for real-time hand tracking)
