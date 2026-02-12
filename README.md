@@ -5,7 +5,7 @@ This repository contains Python scripts demonstrating computer vision techniques
 
 ### 1. MediaPipe Virtual Drawing
 
-This is a Python application that opens your webcam and uses MediaPipe to track your hand. It identifies your index finger, allowing you to "draw" on the screen in real-time, just by moving your finger in the air.
+This is a Python script that opens your webcam and uses MediaPipe to track your hand. It identifies your index finger, allowing you to "draw" on the screen in real-time, just by moving your finger in the air.
 
  ### Key Features
 
